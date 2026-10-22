@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.next/
+node_modules/
+dist/
+build/
+data/chroma/
+data/uploads/
